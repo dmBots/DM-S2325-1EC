@@ -1,21 +1,21 @@
 # DM-S2325-1EC
 
-## 概述
-- 这里是 `DM-S2325-1EC` 分立系列电机资料入口。
-- 资料分为说明书、二维图、三维模型和测试数据。
+## Overview
+- This is the entry page for the `DM-S2325-1EC` discrete-series motor materials.
+- The current package is organized into the manual, drawings, 3D models, and test data.
 
-## 文档 / 资源
-- [说明书/](说明书/) - 先看接口、参数和使用说明。
-- [2D图纸/](2D图纸/) - 结构尺寸资料。
-- [3D模型/](3D模型/) - 结构集成模型。
-- [2325测试数据.pdf](2325测试数据.pdf) - 测试数据参考。
-- [效率曲线.png](效率曲线.png) - 效率曲线图。
+## Documentation / Resources
+- [说明书/](说明书/) - start here for interfaces, parameters, and usage notes.
+- [2D图纸/](2D图纸/) - mechanical dimensions.
+- [3D模型/](3D模型/) - integration models.
+- [2325测试数据.pdf](2325测试数据.pdf) - test data reference.
+- [效率曲线.png](效率曲线.png) - efficiency curve image.
 
-## 快速开始
-- 先看 `说明书/`，确认使用边界和接线方式。
-- 如果你在做结构或选型，再看图纸、模型和测试数据。
+## Quick Start
+- Read `说明书/` first.
+- Use the drawings, models, and test data according to your integration or selection task.
 
-## 状态
-- ZH: 主版入口
-- EN: Translation pending
-- TBD: 后续如新增调试流程，单独建文档承载
+## Status
+- EN: main entry
+- ZH: source files remain in this subtree
+- TBD: future debug workflow notes should be added as separate docs
